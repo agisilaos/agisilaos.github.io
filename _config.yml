@@ -3,6 +3,7 @@ exclude:
 - bin/
 - Gemfile
 - Gemfile.lock
+- README.md
 
 # Site settings
 title: Agis Tsaraboulidis
