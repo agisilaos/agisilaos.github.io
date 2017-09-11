@@ -1,0 +1,21 @@
+theme: jekyll-athena
+
+# Site settings
+title: Agis Tsaraboulidis
+# description: 
+url: "https://agisilaos.github.io" # the base hostname & protocol for your site
+github_repo: agisilaos.github.io # the GitHub repo name for your project
+github_username: agisilaos
+repository: agisilaos/agisilaos.github.io
+
+# Optional social link, you can choose from the following options:
+# twitter (default), instagram, medium, or dribbble
+social_link: twitter
+social_username: agisilaosts
+
+# Set theme color here
+# Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
+theme_color: light
+
+# Build settings
+markdown: kramdown
