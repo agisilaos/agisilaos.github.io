@@ -1,4 +1,8 @@
 theme: jekyll-athena
+exclude: 
+- bin/
+- Gemfile
+- Gemfile.lock
 
 # Site settings
 title: Agis Tsaraboulidis
