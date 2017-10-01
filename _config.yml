@@ -1,13 +1,14 @@
 theme: jekyll-athena
-exclude: 
+exclude:
 - bin/
+- CODE_OF_CONDUCT.md
 - Gemfile
 - Gemfile.lock
 - README.md
 
 # Site settings
 title: Agis Tsaraboulidis
-# description: 
+# description:
 url: "https://agisilaos.github.io" # the base hostname & protocol for your site
 github_repo: agisilaos.github.io # the GitHub repo name for your project
 github_username: agisilaos
