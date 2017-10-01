@@ -40,7 +40,7 @@ This project adheres to the Contributor Covenant [code of conduct](https://githu
 
 ## License
 
-agisilaos.github.io is available under the MIT license. See the LICENSE file for more info.
+agisilaos.github.io is available under the MIT license. See the [LICENSE](https://github.com/agisilaos/agisilaos.github.io/blob/source/LICENSE) file for more info.
 
 ## Help, feedback or suggestions?
 
