@@ -36,7 +36,7 @@ $ git push -f origin master
 
 ## Code of Conduct
 
-This project adheres to the Contributor Covenant [code of conduct](https://github.com/agisilaos/agisilaos.github.io/blob/source/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to agtsaraboulidis@gmail.com.
+This project adheres to the Contributor Covenant code of conduct. By participating, you are expected to uphold this [code](https://github.com/agisilaos/agisilaos.github.io/blob/source/CODE_OF_CONDUCT.md). Please report unacceptable behavior to agtsaraboulidis@gmail.com.
 
 ## License
 
