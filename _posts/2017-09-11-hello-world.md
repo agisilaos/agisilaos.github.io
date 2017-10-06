@@ -9,7 +9,7 @@ _This was first published on my [Medium](https://medium.com/@AgisilaosTsaras) pr
 
 If you haven’t thought of it yet, having a mentor in your life is as essential as having a personal trainer for a lot of reasons that I will discuss further down in the post. I wanted to write about that topic for a long time now and I’m glad that I’m doing it right now. In these lines I will go through and explain what’s a mentor, why we need one in our lives and share who’s my mentor and what are the lessons I learned from her.
 
-![alt text](mentor.jpg)
+![alt text]https://github.com/agisilaos/agisilaos.github.io/blob/source/_posts/mentor.jpg)
 *Photo by Nik MacMillan on Unsplash*
 
 According to Wikipedia mentor is a wise and trusted counsellor or teacher. For me though Oprah Winfrey describes it with more accuracy, for Oprah mentor is someone who allows you to see the hope inside yourself. Everyone needs a mentor in their lives for a lot of reasons, especially when they’re starting out with their careers.
