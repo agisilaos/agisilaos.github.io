@@ -14,6 +14,7 @@ url: "https://agisilaos.github.io" # the base hostname & protocol for your site
 github_repo: agisilaos.github.io # the GitHub repo name for your project
 github_username: agisilaos
 repository: agisilaos/agisilaos.github.io
+google_analytics: UA-71846779-3
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
