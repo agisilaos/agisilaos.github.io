@@ -1,9 +1,10 @@
 theme: jekyll-athena
+remote_theme: agisilaos/athena
 exclude:
-- bin/
 - CODE_OF_CONDUCT.md
 - Gemfile
 - Gemfile.lock
+- LICENSE
 - README.md
 
 # Site settings

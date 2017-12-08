@@ -7,7 +7,7 @@ This is the data for my personal website. In this website you can find more info
 ## Installing
 
 ```sh
-$ bundle install --path .bundle --binstubs
+$ bundle install --path .bundle
 ```
 
 ## Building
@@ -20,18 +20,6 @@ $ bundle exec jekyll build
 
 ```sh
 $ bundle exec jekyll serve
-```
-
-## Publishing
-
-```sh
-$ bundle exec jekyll build
-$ cd _site
-$ git init   # Use this command only if you init a repo for the first time
-$ git add -A
-$ git commit -m "Site generated $(date)"
-$ git remote add origin https://github.com/agisilaos/agisilaos.github.io.git
-$ git push -f origin master
 ```
 
 ## Code of Conduct
