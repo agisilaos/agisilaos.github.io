@@ -22,6 +22,12 @@ $ bundle exec jekyll build
 $ bundle exec jekyll serve
 ```
 
+## Updating Theme Revision
+
+```sh
+$ bundle update jekyll-athena
+```
+
 ## Code of Conduct
 
 This project adheres to the Contributor Covenant code of conduct. By participating, you are expected to uphold this [code](https://github.com/agisilaos/agisilaos.github.io/blob/source/CODE_OF_CONDUCT.md). Please report unacceptable behavior to agtsaraboulidis@gmail.com.
