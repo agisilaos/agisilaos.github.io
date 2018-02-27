@@ -5,7 +5,7 @@ date: 2017-11-9
 categories: writing
 ---
 
-_Originally posted on [Medium](https://medium.com/@AgisilaosTsaras/good-tools-wont-solve-productivity-but-people-can-a3515c8b6d4)._
+_Originally posted on [Medium](https://medium.com/@AgisilaosTsaras/good-tools-wont-solve-productivity-but-people-can-a3515c8b6d4)_
 
 Companies build tools that help people communicate more efficiently and to increase productivity. However, over the last couple of months, I’ve seen an increase in people debating/arguing/discussing about the decrease in productivity due to Slack’s distraction level, including the very awesome Justin Pervose. And that got me thinking…
 
