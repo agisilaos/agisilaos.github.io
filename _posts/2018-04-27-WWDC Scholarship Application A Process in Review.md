@@ -41,6 +41,8 @@ Alas, I finished with the development 3 hours before submissions were due! Hello
 
 ## Essays
 
+Part of the scholarship application was to write a couple of essays. In the first one, we had to describe our Playground (what technologies we used, how we solved the problems we had using Apple’s technologies). The second essay wasn’t technical. It was inspirational. We had to write about how we share our excitement and knowledge about programming with the community.
+
 With the main project being done and ready for submission, I was less anxious and focused on finishing the essays. In less than 1:30 hours and given it always takes a lot of time for me to write thoughtful and well-organized essays, I was super happy with how they turned out.
 
 ## What I learned along the way
