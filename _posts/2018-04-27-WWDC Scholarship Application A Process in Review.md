@@ -1,4 +1,9 @@
-# WWDC Scholarship Application: A Process in Review
+---
+layout: post
+title: WWDC Scholarship Application - A Process in Review
+date: 2018-04-27
+categories: writing
+---
 
 For those of you that have followed along with my journey, you know this was my third time entering to win a scholarship and attend WWDC. I did a lot of things differently over the course of the last two years, from research and, writing to designing a playground book. After researching everything around a playground book including what it makes it interactive and interesting I designed the book using sketch and build it using (you guessed it!) Xcode Playgrounds.
 
