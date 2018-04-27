@@ -47,18 +47,19 @@ With the main project being done and ready for submission, I was less anxious an
 
 1. Time Management
 
-Time management is super important in everything we do, especially when it comes to working on any Scholarship submission. Since my full time focus is on Iris Health, I was working on this in my spare time, and I had to make sure I designed  my time in a way that ensured I had work, scholarship and personal time  and not waste any second of it.
+    Time management is super important in everything we do, especially when it comes to working on any Scholarship submission. Since my full time focus is on Iris Health, I was working on this in my spare time, and I had to make sure I designed  my time in a way that ensured I had work, scholarship and personal time  and not waste any second of it.
 
 2. Think of your playground as an MVP
 
-My second realization was that I need to think of my playground as an MVP (Minimum Viable Product). You don’t have the time to make your submission perfect but you have the time to pay attention to details and that’s one of the reasons that may your submission stand out.
+    My second realization was that I need to think of my playground as an MVP (Minimum Viable Product). You don’t have the time to make your submission perfect but you have the time to pay attention to details and that’s one of the reasons that may your submission stand out.
 
 3. Make something original and that you’re passionate
 
-One of the slides that really stood out to me from the WWDC presentation was the one about passion. By creating something you’re passionate and really care about, you will feel good, motivated and have more fun while doing it. So when it comes to creating a side project and/or a WWDC Scholarship Application think about what **you** really want to create and do that. People can sense passion and drive.
+    One of the slides that really stood out to me from the WWDC presentation was the one about passion. By creating something you’re passionate and really care about, you will feel good, motivated and have more fun while doing it. So when it comes to creating a side project and/or a WWDC Scholarship Application think about what **you** really want to create and do that. People can sense passion and drive.
 
 4. Have fun
-Last but not least on my list, have fun! I can only imagine how cool and what an honor it is  to get a scholarship and believe me I would have loved to, but don’t do things for the end goal, do them for the ride. In every one of my submissions the past 3 years I learned a ton of new things which I can apply to my projects. It’s an achievement on its own to go from an idea to a product in a week, so be proud of that. It’s not easy.
+
+    Last but not least on my list, have fun! I can only imagine how cool and what an honor it is  to get a scholarship and believe me I would have loved to, but don’t do things for the end goal, do them for the ride. In every one of my submissions the past 3 years I learned a ton of new things which I can apply to my projects. It’s an achievement on its own to go from an idea to a product in a week, so be proud of that. It’s not easy.
 
 ![submission-status](/images/Submission-Status.png)
 
