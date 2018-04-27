@@ -23,7 +23,13 @@ When it comes down to designing a book, it’s not only about the visuals. Playg
 
 I spent most of my design time focusing on that because I had a pretty good sense of how the visuals should look like. Since the review time for our playgrounds was 3 minutes I decided to build 2 chapters plus an overview page  guranteeing it was  short and sweet.
 
+The first chapter was about the basics of Neural Networks and the second chapter about the training of neural networks.
+
 I spent one night designing it and after being happy with the turnout, I moved to the development phase.
+
+| ![chapter-one](/images/chapterOne.png){:class="img-responsive"} |
+|:--:|
+| *The output of the live view from chapter 1* |
 
 ## Development
 
