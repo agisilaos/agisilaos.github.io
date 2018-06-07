@@ -48,8 +48,6 @@ Since I started tweeting about how much I like Bear, many people asked how I use
 
 A couple of months ago I was in University, all the while building Iris Health, working on a few side projects and also conference Call for Proposals, so I had to make sure my organization system was solid to handle all of this stuff and remain sane all at once.
 
-![](tags_system.png "Structure of my tags")
-
 I use the structure below for all the things I care about and from there I use nested tags to organize my notes into sections. This structure helps me and keeps me in focus while working on a bunch of different stuff.
 
 | ![selected-notes](/images/tags_system.png){:class="img-responsive"} |
