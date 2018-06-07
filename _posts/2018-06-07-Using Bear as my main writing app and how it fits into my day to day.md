@@ -32,8 +32,6 @@ Bear is perfect for capturing ideas on the go. Using Bear’s Apple Watch app I 
 
 Last but not least on my list of the things I absolutely love about the app is the illustrations. They’re just gorgeous and made by the amazing [Vic Bell](https://www.twitter.com/vic_bell). 😍
 
-![](images/empty_trash.png "Illustration when Trash folder is empty.")
-
 | ![selected-notes](/images/selected_notes.png){:class="img-responsive"} |
 |:--:|
 | *Illustration when user selects multiple notes* |
@@ -85,6 +83,7 @@ I could write anything in `.md` format and then export it to many different form
 During my years at University I had a lot of writing to do and Bear helped me to be productive and to not lose focus when I needed it the most.
 
 ----
+
 
 Maybe Bear will work for you, maybe it won’t. I hope I brought some clarity why I prefer Bear over other writing apps and how I use it on a day to day basis. Find out what works best for you and stick with it.
 
