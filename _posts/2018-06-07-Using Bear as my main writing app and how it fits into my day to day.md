@@ -60,7 +60,7 @@ The fewer apps I use, the better!
 
 ### Stand-ups & long messages in Slack
 
-Every Monday at Iris Health, we have our Weekly Stand-Up. Team members share what we worked on last week, what we’re planning to tackle the week ahead and if there’s anything (or one) blocking us from achieving our goals. I create my list for the standup so I don’t have to worry about sending the message early and before I’m done with it. Since Bear is using markdown, I just export the note to `.md` and pass the info to our slack channel.
+Every Monday at Iris Health, we have our Weekly Stand-Up. Team members share what we worked on last week, what we’re planning to tackle the week ahead and if there’s anything (or one) blocking us from achieving our goals. I create my list for the standup so I don’t have to worry about sending the message early and before I finish sharing all of my thoughts there. Since Bear is using markdown, I just export the note to `.md` and pass the info to our slack channel.
 
 One crucial thing about distributed teams is communication. So when it comes to sharing an idea with the team or a possible solution to an engineering problem we’re currently working on, I use bear to compose a message with my thoughts. I take my time to make sure the message has all the info that’s needed and from there I share it – helping me keep the message as clear as possible without the worry that it gets sent early. As someone who is not a native English speaker, this helps a ton and in the end, actually helps improve my writing and english communication skills.
 
@@ -82,6 +82,10 @@ I could write anything in `.md` format and then export it to many different form
 
 During my years at University I had a lot of writing to do and Bear helped me to be productive and to not lose focus when I needed it the most.
 
+---
+
 Maybe Bear will work for you, maybe it won’t. I hope I brought some clarity why I prefer Bear over other writing apps and how I use it on a day to day basis. Find out what works best for you and stick with it.
 
 What’s your favourite writing tool and why? I would love to know what you think, so feel free to tweet me [@agisilaosts](https://twitter.com/agisilaosts)
+
+_Thanks to Cat Noone_
