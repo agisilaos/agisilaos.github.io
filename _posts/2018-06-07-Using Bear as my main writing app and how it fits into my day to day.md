@@ -82,9 +82,6 @@ I could write anything in `.md` format and then export it to many different form
 
 During my years at University I had a lot of writing to do and Bear helped me to be productive and to not lose focus when I needed it the most.
 
-----
-
-
 Maybe Bear will work for you, maybe it won’t. I hope I brought some clarity why I prefer Bear over other writing apps and how I use it on a day to day basis. Find out what works best for you and stick with it.
 
 What’s your favourite writing tool and why? I would love to know what you think, so feel free to tweet me [@agisilaosts](https://twitter.com/agisilaosts)
