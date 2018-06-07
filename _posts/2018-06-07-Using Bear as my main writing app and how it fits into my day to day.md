@@ -1,3 +1,10 @@
+---
+layout: post
+title: Using Bear as my main writing app and how it fits into my day to day
+date: 2018-06-07
+categories: writing
+---
+
 # Using Bear as my main writing app and how it fits into my day to day
 
 To say I’m a power user of Bear would be an understatement.I use it a lot —for all of my university classes, my work at Iris Health, general tasks, blog posts and more. With every update, the app becomes more and more reliable; and given how much i use (and love it), I thought it would be a good idea to share how I use it on a day to day basis. I’ve been using it since it came out on the App Store. I gave it a try and many things stood out to me.
