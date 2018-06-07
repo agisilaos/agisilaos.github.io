@@ -5,8 +5,6 @@ date: 2018-06-07
 categories: writing
 ---
 
-# Using Bear as my main writing app and how it fits into my day to day
-
 To say I’m a power user of Bear would be an understatement.I use it a lot —for all of my university classes, my work at Iris Health, general tasks, blog posts and more. With every update, the app becomes more and more reliable; and given how much i use (and love it), I thought it would be a good idea to share how I use it on a day to day basis. I’ve been using it since it came out on the App Store. I gave it a try and many things stood out to me.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Writing using <a href="https://twitter.com/BearNotesApp?ref_src=twsrc%5Etfw">@BearNotesApp</a> is such a fantastic experience. With every update the app becomes more &amp; more reliable.</p>&mdash; Agis Tsaraboulidis (@agisilaosts) <a href="https://twitter.com/agisilaosts/status/998157653946896384?ref_src=twsrc%5Etfw">May 20, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
