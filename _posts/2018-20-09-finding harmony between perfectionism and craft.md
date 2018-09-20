@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finding harmony between perfectionism and craft
-date: 2018-20-09
+date: 2018-09-20
 categories: writing
 ---
 
