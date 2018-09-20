@@ -45,4 +45,4 @@ Perfectionism was what led me to be relentless and discontent with my work and m
 
 What do you think? Are you a perfectionist yourself? and how you deal with it? Let me know - along with your questions, comments or feedback - on [Twitter](https://twitter.com/agisilaosts) or [email](mailto:agtsaraboulidis@gmail.com).
 
-Huge thanks to _Cat Noone_ for proof-reading the post.
+Huge thanks to [Cat Noone](https://twitter.com/imcatnoone) for proof-reading the post.
