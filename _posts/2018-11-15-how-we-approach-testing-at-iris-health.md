@@ -82,6 +82,30 @@ In this case, we didn’t want to test if a color has a specific value but if sp
 
 This also puts a constraint in place for our design system, forcing us to truly determine whether or not we want to “break” the system for any particular reason or try to find a better design solution.
 
+Here's an example of our Unit test for the Appearance manager:
+
+```swift
+import XCTest
+@testable import Iris
+
+class IrisAppearanceManagerTests: XCTestCase {
+
+    let styleguideForTesting = stylingForAppearanceManager()
+
+    func testValuesInAppearanceManager() {
+        XCTAssert(styleguideForTesting.navigationBarFont == UIFont(name: "Avenir-Heavy", size: 18)!, "The value of navigationbarFont should match with the value after the ==")
+        XCTAssert(styleguideForTesting.navigationBarForegroundColor == UIColor.irisBlue(), "The value of navigationBarForegroundColor should match with the value after the ==")
+        XCTAssert(styleguideForTesting.navigationBarKern == NSNumber(value: 0.7), "The value of navigationBarKern should match with the value after the ==")
+        XCTAssert(styleguideForTesting.navigationBarBarTintColor == UIColor.white, "The value of navigationBarBarTintColor should match with the value after the ==")
+        XCTAssert(styleguideForTesting.navigationBarTintColor == UIColor.irisBlue(), "The value of navigationBarTintColor should match with the value after the ==")
+        XCTAssert(styleguideForTesting.tabBarFont == UIFont(name: "Avenir-Heavy", size: 8)!, "The value of tabBarFont should match with the value after the ==")
+        XCTAssert(styleguideForTesting.barButtonTintColor == UIColor.white, "The value of barButtonTintColor should match with the value after the ==")
+        XCTAssert(styleguideForTesting.textFieldTextColor == UIColor.irisDarkGray(), "The value of textFieldTextColor should match with the value after the ==")
+        XCTAssert(styleguideForTesting.tabBarTintColor == UIColor.irisBlue(), "The value of tabBarTintColor should match with the value after the ==")
+    }
+}
+```
+
 ---
 
 There are still some parts in the app we want to add tests to such as our notifications engine. The last couple of months we spent a lot of time thinking how we can incorporate tests in our app and whats the benefits of doing so. After some time and with more tests other than just “basic” ones I believe that it was a great investment for our team. Because of these tests we were able to refactor our code and make it better, improve our workflow and make sure that some of our mistakes while working with code can be discovered before it's “too late”.
