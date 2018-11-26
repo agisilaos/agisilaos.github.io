@@ -5,7 +5,7 @@ date: 2018-11-26
 categories: writing
 ---
 
-It’s almost December and that means the holidays are close. One of the things I absolutely love about holidays is  that I have more time to do things I love like reading, catching up with friends and play video games. While playing video games is fun I tend to spend more time reading books. Here are ten books you should read during the holiday:
+It’s almost December and that means the holidays are close. One of the things I absolutely love about holidays is that I have more time to do things I love like reading, catching up with friends and play video games. While playing video games is fun I tend to spend more time reading books. Here are ten books you should read during the holiday:
 
 1. [The Lonely City by Olivia Laing](https://www.amazon.com/Lonely-City-Adventures-Being-Alone/dp/1250118034/ref=sr_1_1_sspa?ie=UTF8&qid=1543244469&sr=8-1-spons&keywords=the+lonely+city&psc=1): I found this book fascinating.
 2. [FEAR by Thich Nhat Hanh](https://www.amazon.com/Fear-Essential-Wisdom-Getting-Through/dp/0062004735/ref=sr_1_1?ie=UTF8&qid=1543244514&sr=8-1&keywords=fear+thich+nhat+hahn): An essential book to understand what fear is and how through mindfulness we in a way can master fear and embrace life.
