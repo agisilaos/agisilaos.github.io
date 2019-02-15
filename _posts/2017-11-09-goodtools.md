@@ -7,7 +7,7 @@ categories: writing
 
 _Originally posted on [Medium](https://medium.com/@AgisilaosTsaras/good-tools-wont-solve-productivity-but-people-can-a3515c8b6d4)_
 
-Companies build tools that help people communicate more efficiently and to increase productivity. However, over the last couple of months, I’ve seen an increase in people debating/arguing/discussing about the decrease in productivity due to Slack’s distraction level, including the very awesome Justin Pervose. And that got me thinking…
+Companies buil tools that help people communicate more efficiently and to increase productivity. However, over the last couple of months, I’ve seen an increase in people debating/arguing/discussing about the decrease in productivity due to Slack’s distraction level, including the very awesome Justin Pervose. And that got me thinking…
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">So turns out being in 25+ Slack channels plus all the DM&#39;s is actually worse than using email to communicate with people</p>&mdash; Justin Pervorse (@justinpervorse) <a href="https://twitter.com/justinpervorse/status/923323395281903616?ref_src=twsrc%5Etfw">October 25, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
