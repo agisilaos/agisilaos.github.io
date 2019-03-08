@@ -19,7 +19,7 @@ Through my own experience and growth, I happen to be one of the people that stro
 
 ## Swift isn’t a newbie dev-friendly language
 
->  Swift isn’t a newbie dev-friendly language, and it's a difficult language to learn and understand.
+>  Swift isn’t a newbie dev-friendly language, and it's a difficult language to learn and understand at first.
 
 I see this argument a lot during conversations. Since the release of Swift, many new developers, both young and old alike, started to learn how to code because of this language. After having some conversations with many WWDC scholarship applicants and winners, the main reason they choose Swift as their first programming language: **Its syntax**. It helps to learn basic programming concepts and remove that feeling of being overwhelmed that happens all too often for newbie programmers.
 
