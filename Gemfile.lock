@@ -240,6 +240,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-athena!
+  jekyll-feed
 
 BUNDLED WITH
    2.0.1
