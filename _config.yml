@@ -7,6 +7,9 @@ exclude:
 - LICENSE
 - README.md
 
+plugins:
+  - jekyll-feed
+
 # Site settings
 title: Agis Tsaraboulidis
 # description:
