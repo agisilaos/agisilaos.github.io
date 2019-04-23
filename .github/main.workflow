@@ -7,6 +7,4 @@ action "markdown-link-check" {
   uses = "gaurav-nelson/github-action-markdown-link-check@v0.1.0"
 }
 
-workflow "New workflow" {
-  on = "push"
 }
