@@ -6,5 +6,3 @@ workflow "Check markdown links" {
 action "markdown-link-check" {
   uses = "gaurav-nelson/github-action-markdown-link-check@v0.1.0"
 }
-
-}
