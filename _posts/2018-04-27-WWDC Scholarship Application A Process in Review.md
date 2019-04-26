@@ -11,7 +11,7 @@ For those of you that have followed along with my journey, you know this was my 
 
 There were so many things (e.g interactive messages, notes, best practices) Apple provides in the documentation and WWDC videos, and I wanted to have a good grasp of them before moving forward with an idea.
 
-| ![passion](/images/wwdc-post/passion.png){:class="img-responsive"} |
+| ![passion](../images/wwdc-post/passion.png){:class="img-responsive"} |
 |:--:|
 | *Presentation slide from Apple's keynote* |
 
@@ -27,7 +27,7 @@ The first chapter was about the basics of Neural Networks and the second chapter
 
 I spent one night designing it and after being happy with the turnout, I moved to the development phase.
 
-| ![chapter-one](/images/wwdc-post/chapterOne.png){:class="img-responsive"} |
+| ![chapter-one](../images/wwdc-post/chapterOne.png){:class="img-responsive"} |
 |:--:|
 | *The output of the live view from chapter 1* |
 
@@ -69,6 +69,6 @@ With the main project being done and ready for submission, I was less anxious an
 
     Last but not least on my list, have fun! I can only imagine how cool and what an honor it is  to get a scholarship and believe me I would have loved to, but don’t do things for the end goal, do them for the ride. In every one of my submissions the past 3 years I learned a ton of new things which I can apply to my projects. It’s an achievement on its own to go from an idea to a product in a week, so be proud of that. It’s not easy.
 
-![submission-status](/images/wwdc-post/Submission-Status.png)
+![submission-status](../images/wwdc-post/Submission-Status.png)
 
 Congrats to everyone who won a scholarship!. Have any questions about my experience or want to share how you approached your process? I’d love to hear it. Let’s talk shop on twitter or via email.
