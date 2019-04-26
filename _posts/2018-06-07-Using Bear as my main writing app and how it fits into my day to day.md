@@ -15,7 +15,7 @@ Many apps promote a simple interface and that the experience using the product i
 
 Using Bear has always been such a fantastic experience. It’s really easy to use and you can understand how the app works in a few minutes. Getting set up to start writing is solely based on your level of customization and what you want to use it for, so as with all things productivity, everyone is different. However, the learning curve is non-existent and getting started was a breeze.
 
-| ![My-Library-in-Bear](/images/bear-post/Library_In_Bear.png){:class="img-responsive"} |
+| ![My-Library-in-Bear](../images/bear-post/Library_In_Bear.png){:class="img-responsive"} |
 |:--:|
 | *My Library in Bear* |
 
@@ -25,7 +25,7 @@ The tags system for organizing notes is pure magic. You don’t have to worry ab
 
 You can also use nested tags, so If you work on a project and you want to separate your notes into sections you can definitely do that by typing `#name-of-the-tag/name-of-the-nested-tag`.
 
-| ![nested-tags](/images/bear-post/Nested_tag_system.png){:class="img-responsive"} |
+| ![nested-tags](../images/bear-post/Nested_tag_system.png){:class="img-responsive"} |
 |:--:|
 | *Nested tags in Bear* |
 
@@ -37,11 +37,11 @@ Bear is perfect for capturing ideas on the go. Using Bear’s Apple Watch app I 
 
 Last but not least on my list of the things I absolutely love about the app is the illustrations. They’re just gorgeous and made by the amazing [Vic Bell](https://www.twitter.com/vic_bell). 😍
 
-| ![selected-notes](/images/bear-post/selected_notes.png){:class="img-responsive"} |
+| ![selected-notes](../images/bear-post/selected_notes.png){:class="img-responsive"} |
 |:--:|
 | *Illustration when user selects multiple notes* |
 
-| ![empty-trash](/images/bear-post/empty_trash.png){:class="img-responsive"} |
+| ![empty-trash](../images/bear-post/empty_trash.png){:class="img-responsive"} |
 |:--:|
 | *Illustration when trash folder is empty* |
 
@@ -53,7 +53,7 @@ A couple of months ago I was in University, all the while building Iris Health, 
 
 I use the structure below for all the things I care about and from there I use nested tags to organize my notes into sections. This structure helps me and keeps me in focus while working on a bunch of different stuff.
 
-| ![selected-notes](/images/bear-post/tags_system.png){:class="img-responsive"} |
+| ![selected-notes](../images/bear-post/tags_system.png){:class="img-responsive"} |
 |:--:|
 | *My organizational system in Bear* |
 
