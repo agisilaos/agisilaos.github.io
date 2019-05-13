@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Books I enjoyed reading during the Spring
+title: 5 amazing books I read this Spring
 date: 2019-05-13
 categories: writing
 ---
 
-Reading is my favorite way to indulge my curiosity. I’ve read some terrific books lately. When I pulled together this list of five that you might enjoy as well, I realized that several of my choices wrestle with questions. 
+Reading is my favorite way to indulge my curiosity. I’ve read some terrific books lately. When I pulled together this list of five that you might enjoy as well, I realized that several of my choices wrestle with questions.
 
 What made Apple tick during the era of Steve Jobs? What made Jony Ive the designer he's today? How to approach difficult conversations as a manager? I usually try to read a mix of non-fiction & fiction books throughout the year. There’s nothing better than a great novel as your afternoon read.
 
