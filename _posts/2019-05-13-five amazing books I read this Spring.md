@@ -15,7 +15,7 @@ There are a ton of management books out there but nothing like Julie’s book. W
 
 During my read, I kept a lot of notes about management in general, how to approach difficult conversations and more. I found this book to be useful for managers and individual contributors alike. I loved the illustrations throughout the book.
 
-You can find Julie's book [here](https://www.amazon.com/Making-Manager-Crush-Your-Boss/dp/0753552892/ref=sr_1_1?crid=3ALBVCH2JTP32&keywords=the+making+of+a+manager&qid=1557765208&s=books&sprefix=the+making%2Cstripbooks-intl-ship%2C254&sr=1-1)
+You can find Julie's book [here](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567)
 
 ## Jony Ive by Leander Kahney / Biography
 
@@ -23,7 +23,7 @@ When you think of Apple, the first thing that comes in mind is the iPhone. After
 
 So this biography was something phenomenal for me to read. I enjoyed the pace of the book, and I loved how much attention Mr. Kahney puts on explaining Jony’s obsession with attention to detail and his ability to create a ton of prototypes when designing a product even from an early age. It was an inspiring read and learned a ton about Jony Ive and how he operates at Apple. I created a twitter thread back when I read it and included my favorite parts of the book.
 
-You can find Leander's book [here](https://www.amazon.com/Jony-Ive-Genius-Greatest-Products/dp/1591847060/ref=sr_1_1?keywords=jony+ive&qid=1557765171&s=books&sr=1-1)
+You can find Leander's book [here](https://www.amazon.com/Jony-Ive-Genius-Greatest-Products/dp/159184617X)
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Currently I’m reading the biography of Jony Ive by Leander Kahney. I’m continually impressed by his work ethic, talent and attention to detail. <br><br>Since you can’t find so many info about him on the internet this book describes exceptionally well his childhood &amp; then life at Apple.</p>&mdash; Agis Tsaraboulidis (@agisilaosts) <a href="https://twitter.com/agisilaosts/status/1115542683597135872?ref_src=twsrc%5Etfw">April 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
