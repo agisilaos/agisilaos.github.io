@@ -45,4 +45,4 @@ It’s about a lost man in search of connection - a meditation on love, art and 
 
 —
 
-That was the list of the books I read recently and can't stop talking about them. How about you? Are you into reading? If so what book(s) caught your attention, and you enjoyed reading this spring? Feel free to tweet me [@agisilaosts](https://twitter.com/agisilaosts) and let me know.
+That was the list of the books I read recently and can't stop talking about them. How about you? Are you into reading? If so what book(s) caught your attention, and you enjoyed reading during the spring? Feel free to tweet me [@agisilaosts](https://twitter.com/agisilaosts) and let me know.
