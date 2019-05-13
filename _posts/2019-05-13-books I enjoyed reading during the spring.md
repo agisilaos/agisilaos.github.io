@@ -5,7 +5,9 @@ date: 2019-05-13
 categories: writing
 ---
 
-I enjoy reading books a lot. Recently I read a couple of great ones I keep thinking about even months after I read them. I usually try to read a mix of non-fiction & fiction books throughout the year. There’s nothing better than a great novel as your afternoon read.
+Reading is my favorite way to indulge my curiosity. I’ve read some terrific books lately. When I pulled together this list of five that you might enjoy as well, I realized that several of my choices wrestle with questions. 
+
+What made Apple tick during the era of Steve Jobs? What made Jony Ive the designer he's today? How to approach difficult conversations as a manager? I usually try to read a mix of non-fiction & fiction books throughout the year. There’s nothing better than a great novel as your afternoon read.
 
 ## The Making of a Manager by Julie Zhuo / Business
 
@@ -39,8 +41,8 @@ Before reading the Museum of Modern Love, I didn’t know anything about Marina 
 
 It’s about a lost man in search of connection - a meditation on love, art and commitment, set against the backdrop of one of the most significant art events in modern history, Marina Abramović’s The Artist is Present.
 
+*Semi-Fiction = Inspired by real-life events
+
 —
 
 That was the list of the books I read recently and can't stop talking about them. How about you? Are you into reading? If so what book(s) caught your attention, and you enjoyed reading this spring? Feel free to tweet me [@agisilaosts](https://twitter.com/agisilaosts) and let me know.
-
-*Semi-Fiction = Inspired by real-life events
