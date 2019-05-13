@@ -35,7 +35,7 @@ Through Ken’s book, you can get a pretty good idea what it was like to work at
 
 If you’re working in tech, this is a must read about how to build products with empathy and care for your customers. I wrote down a bunch of notes, and I’m going to use what I learned through this book in my current and future projects. Last but not least it inspired me to be a better engineer.
 
-You can find Ken's book [here](https://www.amazon.com/Creative-Selection-Inside-Apples-Process/dp/1250194466)
+You can find Ken's book [here](https://www.amazon.co.uk/Creative-Selection-Inside-Apples-Process/dp/B07D41P9FC)
 
 ## Eleanor Oliphant is Completely Fine by Gail Honeyman / Fiction
 
