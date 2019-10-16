@@ -18,7 +18,7 @@ Based on my experience, Slack is a wonderful tool, and if you and your team use 
 For us at Iris, we’re a fully remote team, and Slack is our lifeline. After some months of getting into a groove, we figured out (and are continually refining) our processes and the perfect level of communication. But ultimately, we are heavily dependent on it so learning how best to use it was key. This would be the same with any of Slack’s competitors.
 We have a slew of integrations that keep everyone in-the-know, shut channels down if they weren’t very active, and try to find a happy medium for a place to get work done, have random work-less discussions (this happens in our #lunch-room) and channels specifically for groups to limit the notification fatigue. (GIFS with cats in the #general channel excluded 😜)
 
-| ![slack-workspace](../images/comm-tools-post/slack.png){:class="img-responsive"} |
+| ![slack-workspace](/images/comm-tools-post/slack.png){:class="img-responsive"} |
 |:--:|
 | *Our Slack Workspace* |
 
