@@ -1,11 +1,11 @@
 ---
 layout: post
-title: National November Novel Writing #NaNoWriMo
+title: National November Novel Writing Month
 date: 2019-11-01
 categories: writing
 ---
 
-National November Novel Writing starts today. I'm so excited because I'm going to participate. For this month, I'm planning to write, edit, and publish ten pieces on my blog. I will use this twitter thread to keep myself accountable.
+National November Novel Writing Month starts today. I'm so excited because I'm going to participate. For this month, I'm planning to write, edit, and publish ten pieces on my blog. I will use this twitter thread to keep myself accountable.
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">National November Novel Writing starts today. I’m so excited because I’m going to participate. For this month, I’m planning to write, edit and publish 10 pieces on my blog. I will use this thread to keep myself accountable. ✍️ ✨<br><br>This morning I started writing my first post. <a href="https://t.co/Q616JHIgCI">https://t.co/Q616JHIgCI</a></p>&mdash; Agis Tsaraboulidis (@agisilaosts) <a href="https://twitter.com/agisilaosts/status/1190179594407759872?ref_src=twsrc%5Etfw">November 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
