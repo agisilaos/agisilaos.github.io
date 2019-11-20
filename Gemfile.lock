@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/agisilaos/athena.git
-  revision: 290acccd69d27264f24bf307321ab7e08fe89849
+  revision: 702571ea53affe4bbc3704258a06b703d14e60f4
   specs:
     jekyll-athena (0.0.2)
 
