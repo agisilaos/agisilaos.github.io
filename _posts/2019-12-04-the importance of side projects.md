@@ -1,13 +1,13 @@
 ---
 layout: post
-title: The Misrepresentation of Soft Skills
+title: The importance of side projects
 date: 2019-12-04
 categories: writing
 ---
 
 Growing up, I spent my time after school, doing a variety of different things. I didn't feel creatively challenged in school. I didn't like going to school even though I was a good student.
 
-I had so much creative energy, and I needed to channel it one way or the other. As a kid, I learned the art of magic tricks. I was mesmerized by magic tricks, and these people called magicians — their ability to make an audience feel like awe. So my goal was to build my first magic show from the ground up.
+I had so much creative energy, and I needed to channel it one way or the other. As a kid, I learned the art of magic tricks. I was mesmerized by magic tricks, and by the people who performed these tricks, magicians. Their ability to make an audience feel like awe is admirable. So my goal was to build my first magic show from the ground up.
 
 I spent weekends, vacations, and many late nights working tirelessly on my routines. Every single detail had to be perfect. Sleight of hand was something I had to work on a lot. My routines were smart, challenging, and not something so common for a 13 years old boy to perform. Storytelling was key.
 
