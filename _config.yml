@@ -1,4 +1,3 @@
-theme: jekyll-athena
 remote_theme: agisilaos/athena
 exclude:
 - CODE_OF_CONDUCT.md
